@@ -1,2 +1,3 @@
 name: Stacey, the crooked hem
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
