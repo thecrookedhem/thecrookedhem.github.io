@@ -1,3 +1,5 @@
-name: Stacey, the crooked hem
+title: The Crooked Hem
+author: Stacey
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+description: A sewing blog
